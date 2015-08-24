@@ -5,7 +5,7 @@ This pair of scripts are used at the beginning of the 7-Day JavaScript Applicati
 ## Script 1: Writing 1-10 list items
 
 Files:
-* `index.html`
+* [`index.html`](https://github.com/getfretless/js-day1-roster/blob/master/index.html)
 
 In the process of building this project, students learn about the following:
 * Basic HTML5 document structure.
@@ -28,8 +28,8 @@ This project includes markup and code in a single file and does the following:
 ## Script 2: Roster (not-so-mega)
 
 Files:
-* `roster.html`
-* `js/roster.js`
+* [`roster.html`](https://github.com/getfretless/js-day1-roster/blob/master/roster.html)
+* [`js/roster.js`](https://github.com/getfretless/js-day1-roster/blob/master/js/roster.js)
 
 In the process of building this project, students learn about the following:
 * Linking to external `.js` files from an HTML document.
